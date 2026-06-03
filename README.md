@@ -6,17 +6,17 @@ Uppgiften är att göra en sida enligt nedanstående bilder, text och kod-stycke
 * Senaste tiden för inlämning är kl. 8.00 fredagen den 12/6. Det som kommer efter det bedömmer vi inte om det inte finns rimliga skäl.
 * Ni lämnar in genom att ni skriver in en länk till ert Github-repo i ett formulär ni kommer få. OBS: Glöm ej att göra repot publikt!
 * När ni lämnat in bedömmer vi koden i det skick den är vid deadline, commits efter detta kommer ignoreras.
+* Var beredd på att förklara er kod muntligt, så se till att ni förstår vad ni gör om ni rådfrågar andra/AI.
   
 ## Krav
 * Klona detta repo och använd som grund.
-* Använd de variabler ni anser aktuella av de ni får i style.css som grund för sidans design
-* Ni ska lösa uppgiften enligt den design som anges i bilderna
-* Sidan ska vara responsiv i övergångarna mellan mobil-tablet-desktop
-* Formulär och semantik ska vara tillgängligt (använd WAVE eller dylikt för att testa)
-* Koden ska vara välformatterad och tydligt strukturerad med en genomtänkt namngivning på klasser samt ev kommentarer
+* Använd de variabler ni anser aktuella av de ni får i style.css som grund för sidans design.
+* Ni ska lösa uppgiften enligt den design som anges i bilderna.
+* Sidan ska vara responsiv och se bra ut oavsett storlek från ca 300px upp till ca 1400px i bredd.
+* Formulär, semantik och navigation ska vara tillgängligt (använd WAVE eller dylikt för att testa).
+* Koden ska vara välformatterad och tydligt strukturerad med en genomtänkt namngivning på klasser samt ev kommentarer.
 * Inga bibliotek som react, bootstrap, tailwind eller dylikt får användas, endast .CSS och .HTML (ev js för hamburgermeny om ni vill göra den, inget annat).
 * Om ni lånar en reset, utility eller dylikt som inte finns i grundkoden - ange källa som kommentar i er kod.
-* Var beredd på att förklara er kod muntligt så se till att ni förstår vad ni gör om ni rådfrågar andra/AI.
 
 ## Extra
 Följande är extra och sådant ni inte måste ha med om ni inte hinner/vill/kan
