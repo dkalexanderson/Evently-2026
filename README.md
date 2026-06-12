@@ -11,7 +11,7 @@ Mitt försök på evently-uppgiften
 * ✅ Använd de variabler ni anser aktuella av de ni får i style.css som grund för sidans design.
 * ⚠️ Formulär, semantik och navigation ska vara tillgängligt (använd WAVE eller dylikt för att testa).
 * ✅ Koden ska vara välformatterad och tydligt strukturerad med en genomtänkt namngivning på klasser samt ev kommentarer.
-* [x] Inga bibliotek som react, bootstrap, tailwind eller dylikt får användas, endast .CSS och .HTML (ev js för hamburgermeny om ni vill göra den, inget annat).
+* ✅ Inga bibliotek som react, bootstrap, tailwind eller dylikt får användas, endast .CSS och .HTML (ev js för hamburgermeny om ni vill göra den, inget annat).
 * ✅ Om ni lånar en reset, utility eller dylikt som inte finns i grundkoden - ange källa som kommentar i er kod.
   
 ## Övriga resurser
